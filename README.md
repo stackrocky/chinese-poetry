@@ -126,3 +126,10 @@
 ## License
 
 [MIT](https://github.com/chinese-poetry/chinese-poetry/blob/master/LICENSE) 许可证。
+<details>
+  <summary><b>关于</b></summary>
+  <img src="https://raw.githubusercontent.com/jackeygao/chinese-poetry/master/images/ci_words_topK.png" alt="宋词高频词" style="max-width:100%;">
+</details><details>
+  <summary><b>联系方式</b></summary>
+  <img src="https://raw.githubusercontent.com/jackeygao/chinese-poetry/master/images/ci_words_topK.png" alt="宋词高频词" style="max-width:100%;">
+</details>
